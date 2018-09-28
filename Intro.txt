@@ -1,0 +1,22 @@
+1. Python3.7 설치
+2. Atom 설치
+    - Atom 환경 설정
+        - Package 설치
+            - Script
+            - minimap
+            - emmet
+            - language-sas
+            - related
+            - sublime-style-column-selection
+            - atom-shell-command
+            - file-watch
+3. 가상환경 생성
+    C:\Users\Name\djangogirls> C:\Python35\python -m venv myvenv
+
+5. 가상환경 실행
+    C:\Users\Name\djangogirls> myvenv\Scripts\activate    
+
+6. Django 설치 - 가상 환경하에서 설치
+    (myvenv) C:\Users\Name\djangogirls> django-admin.py startproject mysite .
+
+5.
